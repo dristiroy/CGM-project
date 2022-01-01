@@ -1,3 +1,7 @@
+_CGM project
+instructor: Masum Ahmed EeSha
+
+
 at first by calling glutinitwindowsposition the intial windows position is declared
 
 than we set the windows size by passing width and length perameter
