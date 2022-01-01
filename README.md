@@ -1,4 +1,4 @@
-_CGM project
+CGM project
 //
 instructor: Masum Ahmed EeSha
 
